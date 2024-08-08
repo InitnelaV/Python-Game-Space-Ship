@@ -1,3 +1,3 @@
 A Space Ship game for Python like a game & watch made home
 
-![image](https://github.com/user-attachments/assets/5c196810-126b-43bf-b433-1e864df1288c)
+![image](https://github.com/user-attachments/assets/cce7063d-ba3c-4bde-bc50-d26c2e2f864a)
